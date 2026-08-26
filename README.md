@@ -66,3 +66,8 @@ Os resultados indicam que para um investimento de R$ 25 mil, a previsão de vend
 ## Conclusão
 
 A análise permitiu compreender como os investimentos estão relacionados ao volume de vendas e demonstrou a aplicação de técnicas de Ciência de Dados para apoiar decisões relacionadas à alocação de investimentos. O modelo desenvolvido também possibilitou realizar estimativas de vendas a partir dos valores investidos.
+
+## Autor
+- Victor Herik
+
+> Estudante de Ciência de Dados para Negócios.
