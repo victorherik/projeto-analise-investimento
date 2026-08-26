@@ -1,0 +1,61 @@
+mes,regiao,canal_principal,investimento_publicidade_mil_reais,concorrentes_ativos,sazonalidade,avaliacao_campanha,ticket_medio_reais,num_clientes,vendas_mil_unidades
+2024-01,Nordeste,Redes Sociais,19.35,7,Média,8.0,180.56,82,74.9
+2024-01,Sudeste,Google Ads,47.59,2,Alta,6.4,242.5,195,213.36
+2024-03,Norte,Rádio,36.87,1,Baixa,7.3,103.96,137,169.01
+2024-03,Sudeste,Redes Sociais,30.33,4,Alta,7.0,205.72,172,162.34
+2024-04,Sudeste,TV,8.64,8,Média,7.1,71.34,47,54.03
+2024-05,Sul,Rádio,8.64,2,Baixa,5.8,62.92,26,22.43
+2024-06,Norte,Rádio,3.85,3,Baixa,7.0,182.84,38,32.19
+2024-07,Norte,TV,43.44,1,Média,7.7,185.16,233,199.7
+2024-08,Sul,Redes Sociais,30.45,1,Média,9.2,209.36,130,136.87
+2024-09,Nordeste,TV,35.7,3,Média,8.4,231.52,145,179.83
+2024-10,Sudeste,Rádio,2.01,5,Alta,10.0,293.96,40,34.51
+2024-11,Centro-Oeste,Outdoor,48.53,3,Média,5.8,179.08,235,242.35
+2024-12,Sudeste,Outdoor,41.79,1,Média,8.3,130.74,220,185.47
+2025-01,Sudeste,Google Ads,11.4,1,Baixa,7.3,248.8,67,56.66
+2025-02,Nordeste,TV,9.91,8,Baixa,10.0,117.71,68,59.56
+2025-03,Sudeste,TV,9.99,2,Baixa,5.8,159.74,64,69.59
+2025-04,Sul,Google Ads,15.91,3,Alta,5.7,69.61,71,74.41
+2025-05,Sul,Google Ads,26.71,2,Média,6.1,56.34,145,127.41
+2025-06,Norte,Google Ads,22.17,3,Alta,3.8,290.66,86,93.17
+2025-07,Centro-Oeste,Rádio,15.27,7,Média,6.2,259.0,53,60.77
+2025-08,Sudeste,TV,30.98,1,Média,5.9,223.99,165,161.6
+2025-09,Sudeste,Rádio,7.84,8,Baixa,7.2,152.24,77,65.62
+2025-10,Nordeste,Google Ads,15.32,2,Média,7.5,93.32,84,77.86
+2025-11,Sul,TV,18.95,3,Alta,9.8,89.11,113,110.33
+2025-12,Centro-Oeste,Rádio,23.35,9,Alta,8.4,112.56,101,120.5
+2026-01,Norte,Rádio,39.47,7,Baixa,6.1,187.31,186,177.94
+2026-02,Sul,Google Ads,10.78,4,Média,5.7,228.65,76,63.93
+2026-03,Norte,TV,26.2,5,Alta,7.7,215.05,129,150.97
+2026-04,Nordeste,Google Ads,30.03,2,Alta,5.0,119.98,146,144.6
+2026-05,Nordeste,TV,3.28,8,Baixa,9.7,288.72,56,48.23
+2026-06,Sudeste,Outdoor,30.77,4,Alta,8.8,234.47,120,109.17
+2026-07,Centro-Oeste,Redes Sociais,9.36,9,Baixa,6.3,188.59,70,64.45
+2026-08,Norte,Redes Sociais,4.19,5,Baixa,4.4,202.93,33,30.16
+2026-09,Sul,Redes Sociais,47.5,9,Alta,9.0,154.9,207,219.26
+2026-10,Nordeste,Google Ads,48.32,4,Alta,6.8,111.93,210,228.82
+2026-11,Sudeste,Outdoor,40.61,5,Baixa,8.9,138.99,183,162.93
+2026-12,Sudeste,TV,15.93,9,Média,4.6,239.46,88,78.39
+2027-01,Norte,Rádio,5.79,8,Média,6.1,53.6,47,41.41
+2027-02,Nordeste,TV,34.53,3,Baixa,7.0,79.02,219,187.55
+2027-03,Centro-Oeste,Rádio,22.57,1,Baixa,7.1,61.5,104,103.79
+2027-04,Nordeste,TV,6.98,3,Baixa,6.3,60.18,29,29.28
+2027-05,Norte,Outdoor,25.26,4,Baixa,7.9,263.87,130,116.14
+2027-06,Norte,Rádio,2.69,2,Média,5.4,225.91,38,35.84
+2027-07,Nordeste,Google Ads,45.56,1,Alta,6.8,168.54,238,219.95
+2027-08,Norte,TV,13.68,7,Baixa,7.2,74.46,71,63.61
+2027-09,Nordeste,TV,33.46,8,Média,7.8,172.9,195,168.27
+2027-10,Sul,Rádio,16.27,7,Média,8.1,168.37,79,84.67
+2027-11,Nordeste,Google Ads,26.48,5,Baixa,5.3,93.3,137,143.69
+2027-12,Nordeste,Google Ads,27.79,1,Alta,4.7,158.46,104,124.52
+2028-01,Norte,Outdoor,10.06,7,Média,8.9,149.63,52,50.36
+2028-02,Norte,Google Ads,48.51,7,Alta,7.5,203.96,181,222.41
+2028-03,Sudeste,Google Ads,38.98,9,Média,5.9,208.77,161,163.46
+2028-04,Sudeste,Google Ads,47.04,3,Alta,9.3,61.33,230,226.12
+2028-05,Sul,Redes Sociais,44.85,9,Alta,7.2,143.65,197,215.74
+2028-06,Sudeste,Outdoor,30.3,1,Alta,8.8,206.46,152,146.43
+2028-07,Nordeste,TV,46.17,1,Média,7.1,175.78,174,214.25
+2028-08,Norte,Rádio,5.34,4,Baixa,10.0,264.12,10,12.8
+2028-09,Sudeste,TV,10.6,9,Média,9.6,214.67,58,51.39
+2028-10,Sudeste,Outdoor,3.22,6,Baixa,6.6,90.73,18,19.35
+2028-11,Sul,Rádio,16.94,3,Média,8.5,67.64,63,74.2
